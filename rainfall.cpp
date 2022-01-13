@@ -1,3 +1,10 @@
+/*
+    rainfall.cpp
+
+    Rainfall report. Inputs are rain amounts per hour. Output is the average
+    and heaviest rainfall.
+*/
+
 #include <iostream>
 #include <iomanip>
 #include <vector>
