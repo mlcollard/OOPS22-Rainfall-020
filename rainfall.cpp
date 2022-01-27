@@ -11,6 +11,7 @@
 #include <iterator>
 #include <algorithm>
 #include <numeric>
+#include "Aggregate.hpp"
 
 // average of the data
 double avg(const std::vector<double>& data) {
