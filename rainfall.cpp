@@ -9,14 +9,7 @@
 #include <iomanip>
 #include <vector>
 #include <iterator>
-#include <algorithm>
 #include "Aggregate.hpp"
-
-// maximum of the data
-double max(const std::vector<double>& data) {
-
-    return *std::max_element(data.begin(), data.end());
-}
 
 int main() {
 
